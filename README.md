@@ -1,25 +1,25 @@
 Cozy Cup Cafe
 ***
 
-<h1>Project Description</h1>
-<p>Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.</p>
+# Project Description
+Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.
 
-<h3>Features</h3>
-<ul>
-  <li>Hot Beverages</li>
-  <li>Milk Teas</li>
-  <li>Fruit Tea</li>
-  <li>Pure Tea</li>
-  <li>Smoothies</li>
-  <li>Frappes</li>
-  <li>Cold Beverages</li>
-  <li>CozyCup's Food</li>
-  <li>Rice Meal</li>
-  <li>Pastas</li>
-  <li>Dessert</li>
-</ul>
+### Features
+- Hot Beverages
+-  Milk Teas
+-  Fruit Tea
+-  Pure Tea
+-  Smoothies
+-  Frappes
+-  Cold Beverages
+-  CozyCup's Food
+-  Rice Mea
+-  Pastas
+-  Dessert
+-   
+### Screen Captures
+![alt logo](cozycafelogo.jpg height = "200") ![alt logo](cozycafelogo.jpg) ![alt logo](cozycafelogo.jpg) ![alt logo](cozycafelogo.jpg)
 
-<h3>Screen Captures</h3>
 <p><img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200"></p>
 <ul>
   <li>Our Logo that you can see in our signage and our fb porfile that you can see if you <a href = "https://www.facebook.com/cozycup.com.ph">Click Here!</a>.</li>
