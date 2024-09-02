@@ -3,8 +3,6 @@
 <head>
 <style> 
 #border {
-  border: 2px solid red;
-  padding: 10px;
   border-radius: 50%;
 }
 
@@ -42,7 +40,7 @@
 
 <h3>About the authors</h3>
 <div id = "border">
-<p>aeeaefaedaedae</p>
+<p><img src="Myphoto.png" alt="Myphoto" width="150"></p>
 </div>
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
