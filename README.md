@@ -16,10 +16,8 @@ Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.
 -  Rice Mea
 -  Pastas
 -  Dessert
--   
+-  
 ### Screen Captures
-![alt logo]cozycafelogo.jpg
-
 <p><img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200"></p>
 <ul>
   <li>Our Logo that you can see in our signage and our fb porfile that you can see if you <a href = "https://www.facebook.com/cozycup.com.ph">Click Here!</a>.</li>
