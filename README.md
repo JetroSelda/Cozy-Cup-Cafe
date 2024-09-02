@@ -39,7 +39,7 @@
 </ul>
 
 <h3>About the authors</h3>
-<div id = "border">
+<div id = ".border">
 <p><img src="Myphoto.png" alt="Myphoto" width="150"></p>
 </div>
 <p><b>Name:</b> Jetro C. Selda</p>
