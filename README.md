@@ -18,7 +18,7 @@ Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.
 -  Dessert
 -   
 ### Screen Captures
-![alt logo](cozycafelogo.jpg)
+![alt logo]cozycafelogo.jpg
 
 <p><img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200"></p>
 <ul>
