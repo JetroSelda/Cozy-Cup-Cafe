@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8da03556-80c4-453f-98fc-bd7aabd1deb6)Cozy Cup Cafe
+Cozy Cup Cafe
 
 <h1>Project Description</h1>
 <p>Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.</p>
