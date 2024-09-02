@@ -39,7 +39,9 @@
 </ul>
 
 <h3>About the authors</h3>
+<div id = "border-radius">
 <img src = Myphoto.png width="150" alt="MyPhoto">
+</div>
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
 
