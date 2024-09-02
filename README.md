@@ -28,4 +28,4 @@ Cozy Cup Cafe
 </ul>
 
 <h3>About the authors</h3>
-<img src = Myphoto.png width = "150" style="border-radius:50%">
+<img src = Myphoto.png width="150" style="border-radius:75">
