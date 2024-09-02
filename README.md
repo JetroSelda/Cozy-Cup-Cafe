@@ -20,7 +20,7 @@
 </ul>
 
 <h3>Screen Captures</h3>
-<p><img src = cozycuplogo.jpg height = "200"> <img src = cover.png height = "200"> <img src = fullmenu.jpg height = "200"> <img src = fullmenu2.jpg height = "200"></p>
+<p><img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200"></p>
 <ul>
   <li>Our Logo that you can see in our signage and our fb porfile that you can see if you <a href = "https://www.facebook.com/cozycup.com.ph">Click Here!</a>.</li>
   <li>Our oover photp for our shop</li>
@@ -29,7 +29,7 @@
 </ul>
 
 <h3>About the authors</h3>
-<p><img src="Myphoto.png" height="auto" width="150" style="border-radius:50%"></p>
+<p><img img src="Myphoto" height="auto" width="150" style="border-radius:50%"></p>
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
 
