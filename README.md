@@ -32,4 +32,4 @@ Cozy Cup Cafe
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
 
-<p><a href="https://www.facebook.com/jetro.casenaresselda/" height="50"></a><a href="https://github.com/JetroSelda"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height="50"></a></p>
+<p><a href="https://www.facebook.com/jetro.casenaresselda/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="50"></a><a href="https://github.com/JetroSelda"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height="50"></a></p>
