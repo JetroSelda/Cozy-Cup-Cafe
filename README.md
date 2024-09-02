@@ -1,15 +1,5 @@
 Cozy Cup Cafe
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    .Myphoto{
-      border-radius:50%;
-      }
-  </style>
-</head>
-
 <h1>Project Description</h1>
 <p>Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.</p>
 
@@ -38,7 +28,7 @@ Cozy Cup Cafe
 </ul>
 
 <h3>About the authors</h3>
-<img src = Myphoto.png width="150" class="MyPhoto">
+<img class="rounded-circle" src = Myphoto.png width="150">
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
 
