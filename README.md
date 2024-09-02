@@ -13,7 +13,7 @@ Cozy Cup Cafe is a coffee shop that serves variety of drinks and pastries.
 - Frappes
 - Cold Beverages
 - CozyCup's Food
-- Rice Mea
+- Rice Meal
 - Pastas
 - Dessert
   
