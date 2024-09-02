@@ -1,4 +1,4 @@
-![Myphoto](https://github.com/user-attachments/assets/a2c6611e-8f3d-42e7-831a-f2e133150fca)Cozy Cup Cafe
+Cozy Cup Cafe
 ***
 
 <h1>Project Description</h1>
@@ -29,7 +29,7 @@
 </ul>
 
 <h3>About the authors</h3>
-<p><img img src="Myphoto" height="auto" width="150" style="border-radius:50%"></p>
+<p><img img src="Myphoto.png" height="auto" width="150" style="border-radius:50%"></p>
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
 
