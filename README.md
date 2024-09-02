@@ -2,20 +2,20 @@ Cozy Cup Cafe
 ***
 
 # Project Description
-Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.
+Cozy Cup Cafe is a coffee shop that serves variety of drinks and pastries.
 
 ### Features
 - Hot Beverages
--  Milk Teas
--  Fruit Tea
--  Pure Tea
--  Smoothies
--  Frappes
--  Cold Beverages
--  CozyCup's Food
--  Rice Mea
--  Pastas
--  Dessert
+- Milk Teas
+- Fruit Tea
+- Pure Tea
+- Smoothies
+- Frappes
+- Cold Beverages
+- CozyCup's Food
+- Rice Mea
+- Pastas
+- Dessert
   
 ### Screen Captures
 <img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200">
