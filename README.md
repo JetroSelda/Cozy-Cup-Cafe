@@ -24,5 +24,8 @@ Cozy Cup Cafe
   <li>Our Logo that you can see in our signage and our fb porfile that you can see if you <a href = "https://www.facebook.com/cozycup.com.ph">Click Here!</a>.</li>
   <li>Our oover photp for our shop</li>
   <li>Our Menu</li>
-  <li>Another page of out menu</li>
+  <li>Another page of our menu</li>
 </ul>
+
+<h3>About the authors</h3>
+<p><img src = Myphoto.png width = "150" border-radius: 50%></p>
