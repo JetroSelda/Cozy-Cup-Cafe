@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style> 
-.border {
-  border-radius: 50%;
-}
-
-</style>
-</head>
-<body>
-  Cozy Cup Cafe
+Cozy Cup Cafe
 
 <h1>Project Description</h1>
 <p>Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.</p>
@@ -39,12 +28,9 @@
 </ul>
 
 <h3>About the authors</h3>
-<div id = ".border">
 <p><img src="Myphoto.png" alt="Myphoto" width="150"></p>
-</div>
 <p><b>Name:</b> Jetro C. Selda</p>
 <p><b>Email:</b> jetroselda75@gmail.com</p>
 
 <p><a href="https://www.facebook.com/jetro.casenaresselda/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="50"></a>       <a href="https://github.com/JetroSelda"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height="50"></a></p>
-</body>
-</html>
+
