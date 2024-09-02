@@ -1,6 +1,8 @@
 Cozy Cup Cafe
 
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     .Myphoto{
       border-radius:50%;
