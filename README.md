@@ -3,6 +3,8 @@
 <head>
 <style> 
 #border {
+  border: 2px solid red;
+  padding: 10px;
   border-radius: 50%;
 }
 
