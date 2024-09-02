@@ -29,4 +29,5 @@ Cozy Cup Cafe
 
 <h3>About the authors</h3>
 <img src = Myphoto.png width="150" style="border-radius:75">
-<p><b>name</b></p>
+<p><b>Name:</b> Jetro C. Selda</p>
+<p><b>Email:</b> jetroselda75@gmail.com</p>
