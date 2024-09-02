@@ -18,7 +18,7 @@ Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.
 -  Dessert
   
 ### Screen Captures
-<p><img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200"></p>
+<img src = "cozycuplogo.jpg" height = "200"> <img src = "cover.png" height = "200"> <img src = "fullmenu.jpg" height = "200"> <img src = "fullmenu2.jpg" height = "200">
 - Our Logo that you can see in our signage and our fb porfile that you can see if you <a href = "https://www.facebook.com/cozycup.com.ph">Click Here!</a>.
 - Our oover photo for our shop
 - Our Menu
