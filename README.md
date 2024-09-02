@@ -17,4 +17,6 @@ Cozy Cup Cafe
   <li>Pastas</li>
   <li>Dessert</li>
 </ul>
-<img src = https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true></a>
+
+<h3>Screen Captures</h3>
+<img src = hotcoffee.png></a>
