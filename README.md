@@ -25,8 +25,8 @@ Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.
 - Another page of our menu
 
 
-### About the authors
-<img img src="Myphoto.png" height="auto" width="150" style="border-radius:50%">
+#### About the authors
+<img src="Myphoto.png" height="auto" width="150" style="border-radius:50%">
 **Name:** Jetro C. Selda
 **Email:** jetroselda75@gmail.com
 
