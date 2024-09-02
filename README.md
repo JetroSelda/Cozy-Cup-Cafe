@@ -1,4 +1,4 @@
-Cozy Cup Cafe
+#Cozy Cup Cafe
 
 <h1>Project Description</h1>
 <p>Cozy Cup Cafe is a Coffee shop that serve variety of drinks and pastries.</p>
