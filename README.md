@@ -26,11 +26,19 @@ Cozy Cup Cafe is a coffee shop that serves variety of drinks and pastries.
 
 
 #### About the authors
-<img src="Myphoto.png" height="auto" width="150" style="border-radius:50%"> <img src="Myphoto.png" height="auto" width="150" style="border-radius:50%">
+<img src="Myphoto.png" height="auto" width="150" style="border-radius:50%"> 
 
-**Name:** Jetro C. Selda              **Name:** Jetro C. Selda 
+**Name:** Jetro C. Selda 
 
-**Email:** jetroselda75@gmail.com     **Email:** jetroselda75@gmail.com
+**Email:** jetroselda75@gmail.com     
 
-<a href="https://www.facebook.com/jetro.casenaresselda/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="50"></a>       <a href="https://github.com/JetroSelda"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height="50"></a>
+<a href="https://www.facebook.com/jetro.casenaresselda/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="50"></a>       <a href="https://github.com/JetroSelda"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height="50"></a> 
+
+<img src="17252631001683476259834623135686.jpg" height="auto" width="150" style="border-radius:50%">
+
+**Name:** Michael B. Maico
+
+**Email:** laurencemaico231@gmail.com
+
+<a href="https://web.facebook.com/michael.maico.330/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" height="50"></a>       <a href="https://github.com/MichaelLaurenceMaico"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true" height="50"></a> 
 
