@@ -2,7 +2,7 @@
 <html>
 <head>
 <style> 
-#border {
+.border {
   border-radius: 50%;
 }
 
