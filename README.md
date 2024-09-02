@@ -21,7 +21,7 @@ Cozy Cup Cafe
 <h3>Screen Captures</h3>
 <p><img src = cozycuplogo.jpg height = "200"> <img src = cover.png height = "200"> <img src = fullmenu.jpg height = "200"> <img src = fullmenu2.jpg height = "200"></p>
 <ul>
-  <li>Our Logo that you can see in our signage and our fb porfile that you can see here: <a href = "https://www.facebook.com/cozycup.com.ph"></a>.</li>
+  <li>Our Logo that you can see in our signage and our fb porfile that you can see if you <a href = "https://www.facebook.com/cozycup.com.ph">Click Here!</a>.</li>
   <li>Our oover photp for our shop</li>
   <li>Our Menu</li>
   <li>Another page of out menu</li>
