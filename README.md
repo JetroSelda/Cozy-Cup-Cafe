@@ -27,5 +27,10 @@ Cozy Cup Cafe
   <li>Another page of our menu</li>
 </ul>
 
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 <h3>About the authors</h3>
-<p><img src = Myphoto.png width = "150" border: 2px solid red; padding: 10px; border-radius: 75px;></p>
+<p><img src = Myphoto.png width = "150"></p>
