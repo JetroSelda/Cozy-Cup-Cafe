@@ -1,0 +1,487 @@
+#header{
+    border-color: black;
+    text-align: center;
+    height: 70px;
+    width: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: sticky;
+    top: 0px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(#322626, #e8e5e5);
+    z-index: 10;
+}
+
+
+#logo {
+    border-radius: 50%;
+    align-items: center;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/cover.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#tagline {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: 0px;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    float: right;
+}
+
+#name, #menu {
+    width: 100%;
+    height: 100%;
+    font-family: "Yanone Kaffeesatz";
+    font-size: 200px;
+    text-align: center;
+    color: #ECE9D2;
+    font-weight: bolder;
+    text-shadow: -1px -1px 0 #ff8103, 1px -1px 0 #ff8103, -1px 1px 0 #ff8103, 1px 1px 0 #ff8103;
+}
+
+.section {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 100px;
+    text-align: left;
+    color: #ece7a0;
+    font-weight: bolder;
+    text-shadow: -1px -1px 0 #ff8103, 1px -1px 0 #ff8103, -1px 1px 0 #ff8103, 1px 1px 0 #ff8103;
+}
+
+#text1 {
+    font-family: "Nerko One";
+    font-size: 80px;
+    color: #3B2F2F;
+    text-shadow: -1px -1px 0 #ff8103, 1px -1px 0 #ff8103, -1px 1px 0 #ff8103, 1px 1px 0 #ff8103;
+
+}
+
+#bestselling {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 100px;
+    text-align: center;
+    color: #ECE9D2;
+    text-shadow: -1px -1px 0 #ff8103, 1px -1px 0 #ff8103, -1px 1px 0 #ff8103, 1px 1px 0 #ff8103;
+}
+
+.signup {
+    width: 30%;
+    border: #000 solid;
+    position: relative;
+    font-family: "Nerko One";
+    font-size: 2cqi;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+.lbls {
+    width: 75%;
+    text-align: center;
+}
+
+.tac {
+    width: 30%;
+    position: relative;
+    font-family: "Nerko One";
+    font-size: 1cqi;
+    border-width: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+.just {
+    font-size: 1cqi;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.columns {
+    float: left;
+    width: 33.33%;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+}
+
+.row {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.foots{
+    color: white;
+    font-size: 15px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blue
+}
+
+/*Menu*/
+
+.menu {
+    min-width: 350px;
+    float: left;
+    min-width: 49cqi;
+    min-height: 405px;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+}
+.pronames {
+    
+    font-size: 22px;
+    font-family: "Pacifico";
+    color: #713e3e;
+}
+.pronames2 {
+    
+    font-size: 25px;
+    font-family: "Pacifico";
+    color: #713e3e;
+}
+
+.productnames {
+    font-size: 30px;
+    font-family: "Pacifico";
+    color: #713e3e;
+}
+/*PRICE*/
+.pricetag {
+    width: 369px;
+    height: 50px;
+    position: relative;
+    bottom: 0%;
+    font-family: "Protest Guerrilla";
+    font-size: 2.5cqi;
+    color: #3E9C35;
+    text-align: center;
+}
+
+/*TEXT BOX*/
+.textbox {
+    width: 350px;
+    height: 245px;
+    position: relative;
+    padding-left: 5px;
+    font-family: "Nerko One";
+    font-size: 1.5cqi;
+}
+
+/*PRODUCTS*/
+#esp {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/espresso.jpg);
+    background-size: cover;
+}
+
+#desp {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/doubleespresso.jpg);
+    background-size: cover;
+}
+
+#capu {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/cappuccino.jpg);
+    background-size: cover;
+}
+
+#came {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/cafeamericano.jpg);
+    background-size: cover;
+}
+#cala {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/cafelatte.jpg);
+    background-size: cover;
+}
+#camo {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/cafemocha.jpg);
+    background-size: cover;
+}
+#breco {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/brewedcoffee.jpg);
+    background-size: cover;
+}
+#hocho {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/hotchocolate.jpg);
+    background-size: cover;
+}
+#docho {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/doublechocolate.jpg);
+    background-size: cover;
+}
+#ups {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/large.jpg);
+    background-size: cover;
+}
+#ccc {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/chokies.jpg);
+    background-size: cover;
+}
+#dcd {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/doukies.jpg);
+    background-size: cover;
+}
+#rvc {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/redkies.jpg);
+    background-size: cover;
+}
+#box {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/box.jpg);
+    background-size: cover;
+}
+#secc {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/seccs.jpg);
+    background-size: cover;
+}
+#ccf {
+    width: 50%;
+    height: 400px;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: #000 solid;
+    background-image: url(images/caracap.jpg);
+    background-size: cover;
+}
+
+/*ABOUT US*/
+
+.para {
+    width: 80%;
+    border: #000 solid;
+    position: relative;
+    font-family: "Nerko One";
+    font-size: 2cqi;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    margin: auto;
+
+}
+
+.text {
+    padding: 10px;
+}
+
+.photo {
+    width: 30vh;
+    border-radius: 50%;
+    float: right;
+}
+
+.team {
+    width: 40%;
+    border: #000 solid;
+    position: relative;
+    font-family: "Nerko One";
+    font-size: 2cqi;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    margin: auto;
+
+}
+
+/*CONTACTS*/
+
+.map {
+    width: fit-content;
+    margin: auto;
+    border: #3E9C35 solid;
+    
+}
+
+/*FORMS*/
+
+.forms {
+    position: fixed;
+    font-family: "Nerko One";
+    font-size: 1cqi;
+    width: 20%;
+    height: 5vh;
+    min-height: fit-content;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    text-align: center;
+    bottom: 0px;
+    right: 0px;
+}
+
+.formbox {
+    height: 1.5cqi;
+    padding-top: 2px;
+}
+
+.userinput {
+    width: 50%;
+    border: #000 solid;
+    position: relative;
+    font-family: "Nerko One";
+    font-size: 2cqi;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    margin: auto;
+}
+
+.feedback {
+    left: 25%;
+    width: 50%;
+    border: #000 solid;
+    position: relative;
+    font-family: sans-serif;
+    font-size: 1cqi;
+    border-width: 5px;
+    margin: auto;
+    min-height: 5cqi;
+    display: inline-table;
+}
+
+.button2 {
+    width: 10%;
+    position: relative;
+    left: 45%;
+}
+.button3 {
+    width: auto;
+    position: relative;
+    left: 0%;
+}
+    
+.reservation {
+    width: 50%;
+    border: #000 solid;
+    position: relative;
+    font-family: "Nerko One";
+    font-size: 2cqi;
+    background-color: linen;
+    border-color: #FED8B1;
+    border-style: ridge;
+    border-width: 5px;
+    margin: auto;
+    text-align: center;
+}
+
